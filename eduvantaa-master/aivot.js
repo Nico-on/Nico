@@ -25,14 +25,19 @@ function laatikkoFunktio(boxNumber){
 
         
     }
+    else if (boxNumber ==4){
+        document.location.reload();
+    }
     
 }
 function yhteystietoFunktio() {
+    alert("moi")
     var x = document.getElementById("yhteystietolomake");
     var text = "";
     var i;
-    for (i = 0; i < x.length; i++) {
-      text += x.elements[i].value + "<br>";
+    for (i = x.length-1; i >=0; i--) {
+      text += x.name + x.elements[i].value + "<br>";
+
     }
     document.getElementById("yhteystiedotTuloste").innerHTML = text;
   }

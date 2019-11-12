@@ -36,7 +36,7 @@ function yhteystietoFunktio() {
     var text = "";
     var i;
     for (i = x.length-1; i >=0; i--) {
-      text += x.name + x.elements[i].value + "<br>";
+      text += x.elements[i].name + ": " + x.elements[i].value + "<br>";
 
     }
     document.getElementById("yhteystiedotTuloste").innerHTML = text;

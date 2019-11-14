@@ -1,8 +1,12 @@
 1. tieto turava estäisi kaikki oikeuttomat pääsemästä käsiksi kooddiin
 
-2.koodin pitäisi myös olla valmis antamaan kauppiaalle helppotapa muokata hintoja ja nimiä 
+2.Netti sivu pyörisi netinssä serverillä 
 
 3.koodin pitäisi tunnistaa tuotteet ja olla valmis siirtämään tuote kauppakassiin 
 
 4.Koodi pyörii cloudin kautta jatkuvasti ei koneen kautta
+
+5.Olen esimerkiksi käyttänyt one driverä peruskoulun ohella 
+
+6.koodin pitäisi myös olla valmis antamaan kauppiaalle helppotapa muokata hintoja ja nimiä 
 

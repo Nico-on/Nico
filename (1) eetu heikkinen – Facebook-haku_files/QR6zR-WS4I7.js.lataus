@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["UXXAd"]); }
-
-__d("MercuryThreadTimestampReact.re",["MercuryThreadTimestampReact.bs"],(function(a,b,c,d,e,f){(function(a){return null});a=b("MercuryThreadTimestampReact.bs").make;f.make=a}),null);

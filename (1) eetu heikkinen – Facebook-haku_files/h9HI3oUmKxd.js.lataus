@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["aQEGm"]); }
-
-__d("StoriesSuspenseContentPaneRootWithEntryPointQuery$Parameters",["JSResource"],(function(a,b,c,d,e,f){"use strict";a={params:{operationKind:"query",name:"StoriesSuspenseContentPaneRootWithEntryPointQuery",id:"3074057709275083",text:null,metadata:{relayPreloadable:!0}},queryResource:b("JSResource")("StoriesSuspenseContentPaneRootWithEntryPointQuery.graphql").__setRef("StoriesSuspenseContentPaneRootWithEntryPointQuery$Parameters")};e.exports=a}),null);

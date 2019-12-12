@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["THOMc"]); }
-
-__d("StoriesImagePrefetchingContext",["React"],(function(a,b,c,d,e,f){"use strict";a={shouldPrefetchPhotoUri:!1,shouldPrefetchPhotoUriWithBucketPrefetching:!1};e.exports=b("React").createContext(a)}),null);

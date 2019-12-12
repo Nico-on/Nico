@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["2ANm+"]); }
-
-__d("StoriesCometLeftRailRootWithEntryPoint.react",["CometPlaceholder.react","React","StoriesCometLeftRailLayout.react","StoriesSuspenseNavigationPanePlaceholder.react","StoriesSuspenseNavigationPaneRootWithEntryPoint.react"],(function(a,b,c,d,e,f){"use strict";function a(a){var c,d=a.children,e=a.initialBucketID,f=a.queryReference;a=a.viewerSessionID;return(c=b("React")).jsx(b("StoriesCometLeftRailLayout.react"),{hasRightRail:!1,leftRail:c.jsx(b("CometPlaceholder.react"),{fallback:c.jsx(b("StoriesSuspenseNavigationPanePlaceholder.react"),{}),children:c.jsx(b("StoriesSuspenseNavigationPaneRootWithEntryPoint.react"),{initialBucketID:e,queryReference:f,viewerSessionID:a})}),children:d})}e.exports=a}),null);
